@@ -1,29 +1,31 @@
-# Nage-no-Kata – Technikbeschreibung und Prinzipienausarbeitung
+# Nage-no-Kata – Skript
+
+**Technikbeschreibung und Prinzipienausarbeitung**
 <small>Basierend auf: Kodokan Kata Textbook (2015), IJF Evaluation Guidelines (2019), DJB Kata-Regelwerk (2024), Florian Mücke (Juli 2025)</small>
 
 ## 📑 Inhaltsverzeichnis
 
 - [Einleitung](#einleitung)
-- [Gruppe 1: Te-waza (Handtechniken)](#gruppe-1-te-waza-handtechniken)
-  - [Technik 1: Uki-otoshi](#technik-1-uki-otoshi--fallzug)
-  - [Technik 2: Seoi-nage](#technik-2-seoi-nage--schulterwurf)
-  - [Technik 3: Kata-guruma](#technik-3-kata-guruma--schulterrad)
-- [Gruppe 2: Koshi-waza (Hüfttechniken)](#gruppe-2-koshi-waza-hüfttechniken)
-  - [Technik 4: Uki-goshi](#technik-4-uki-goshi--hüftschwung)
-  - [Technik 5: Harai-goshi](#technik-5-harai-goshi--hüftfeger)
-  - [Technik 6: Tsurikomi-goshi](#technik-6-tsurikomi-goshi--hüftwurf-mit-zug-und-heben)
-- [Gruppe 3: Ashi-waza (Fußtechniken)](#gruppe-3-ashi-waza-fußtechniken)
-  - [Technik 7: Okuri-ashi-barai](#technik-7-okuri-ashi-barai--gleitender-fußfeger)
-  - [Technik 8: Sasae-tsurikomi-ashi](#technik-8-sasae-tsurikomi-ashi--blockierender-hebe-fußwurf)
-  - [Technik 9: Uchi-mata](#technik-9-uchi-mata--innerer-schenkelwurf)
-- [Gruppe 4: Ma-sutemi-waza (Rückwärts-Opfertechniken)](#gruppe-4-ma-sutemi-waza-rückwärts-opfertechniken)
-  - [Technik 10: Tomoe-nage](#technik-10-tomoe-nage--kreiswurf)
-  - [Technik 11: Ura-nage](#technik-11-ura-nage--rückwurf)
-  - [Technik 12: Sumi-gaeshi](#technik-12-sumi-gaeshi--eckendrehwurf)
-- [Gruppe 5: Yoko-sutemi-waza (Seitliche Opfertechniken)](#gruppe-5-yoko-sutemi-waza-seitliche-opfertechniken)
-  - [Technik 13: Yoko-gake](#technik-13-yoko-gake--seitliches-einhängen)
-  - [Technik 14: Yoko-guruma](#technik-14-yoko-guruma--seitenrad)
-  - [Technik 15: Uki-waza](#technik-15-uki-waza--schwebewurf)
+- [Gruppe 1️⃣: Te-waza (Handtechniken)](#gruppe-1-te-waza-handtechniken)
+  - [Uki-otoshi](#1-uki-otoshi--fallzug)
+  - [Seoi-nage](#2-seoi-nage--schulterwurf)
+  - [Kata-guruma](#3-kata-guruma--schulterrad)
+- [Gruppe 2️⃣: Koshi-waza (Hüfttechniken)](#gruppe-2-koshi-waza-hüfttechniken)
+  - [Uki-goshi](#1-uki-goshi--hüftschwung)
+  - [Harai-goshi](#2-harai-goshi--hüftfeger)
+  - [Tsurikomi-goshi](#3-tsurikomi-goshi--hüftwurf-mit-zug-und-heben)
+- [Gruppe 3️⃣: Ashi-waza (Fußtechniken)](#gruppe-3-ashi-waza-fußtechniken)
+  - [Okuri-ashi-barai](#1-okuri-ashi-barai--gleitender-fußfeger)
+  - [Sasae-tsurikomi-ashi](#2-sasae-tsurikomi-ashi--blockierender-hebe-fußwurf)
+  - [Uchi-mata](#3-uchi-mata--innerer-schenkelwurf)
+- [Gruppe 4️⃣: Ma-sutemi-waza (Rückwärts-Opfertechniken)](#gruppe-4-ma-sutemi-waza-rückwärts-opfertechniken)
+  - [Tomoe-nage](#1-tomoe-nage--kreiswurf)
+  - [Ura-nage](#2-ura-nage--rückwurf)
+  - [Sumi-gaeshi](#3-sumi-gaeshi--eckendrehwurf)
+- [Gruppe 5️⃣: Yoko-sutemi-waza (Seitliche Opfertechniken)](#gruppe-5-yoko-sutemi-waza-seitliche-opfertechniken)
+  - [Yoko-gake](#1-yoko-gake--seitliches-einhängen)
+  - [Yoko-guruma](#2-yoko-guruma--seitenrad)
+  - [Uki-waza](#3-uki-waza--schwebewurf)
 - [Quellenhinweis](#-quellenhinweis)
 
 
@@ -35,13 +37,14 @@ Sie demonstriert exemplarisch **fünf Gruppen von Wurftechniken** mit je drei Te
 Zweck der Kata ist es, ein **tiefes Verständnis für Kuzushi (Gleichgewichtsbrechung), Tsukuri (Vorbereitung) und Kake (Ausführung)** zu entwickeln – sowie **Timing, Distanz, Körperkontrolle und Harmonie mit dem Partner (Uke)** zu schulen.  
 Die Nage-no-Kata ist ein **zentraler Bestandteil der Dan-Prüfungen** und bildet das technische Fundament des Wurfteils im Judo.
 
+<div style="break-after:page"></div>
 
 ## Gruppe 1️⃣: Te-waza (Handtechniken)
 
 Diese erste Gruppe demonstriert drei Wurftechniken, bei denen die Hauptarbeit durch Toris Arme erfolgt. Sie veranschaulichen die Prinzipien des Ziehens, Umlenkens und Führens im Sinne von Ju, ohne dominanten Einsatz von Hüfte oder Bein.
 
 
-### 🥋 Technik 1: Uki-otoshi (浮落 – „Fallzug“)
+### 🥋 1. Uki-otoshi (浮落 – „Fallzug“)
 
 **🎯 Wirkprinzip:**  
 Uke verliert durch eigenes Vorwärtsmoment das Gleichgewicht – Tori nutzt den Impuls durch Zug und Nachgeben zur Kontrolle.
@@ -63,7 +66,7 @@ Uke verliert durch eigenes Vorwärtsmoment das Gleichgewicht – Tori nutzt den 
 - Linke Seite gleichwertig
 
 
-### 🥋 Technik 2: Seoi-nage (背負投 – „Schulterwurf“)
+### 🥋 2. Seoi-nage (背負投 – „Schulterwurf“)
 
 **🎯 Wirkprinzip:**  
 Ein Angriff wird durch Körperdrehung und Rückenkontakt aufgenommen und über eine stabile Achse geworfen.
@@ -84,7 +87,7 @@ Ein Angriff wird durch Körperdrehung und Rückenkontakt aufgenommen und über e
 - Symmetrisch
 
 
-### 🥋 Technik 3: Kata-guruma (肩車 – „Schulterrad“)
+### 🥋 3. Kata-guruma (肩車 – „Schulterrad“)
 
 **🎯 Wirkprinzip:**  
 Tori nutzt das eigene Zentrum und Beinkraft, um Uke über die Schulterachse diagonal zu heben und zu führen.
@@ -104,7 +107,7 @@ Tori nutzt das eigene Zentrum und Beinkraft, um Uke über die Schulterachse diag
 - Sauberer Wurfbogen  
 - Beide Seiten gleichwertig
 
-
+<div style="break-after:page"></div>
 
 ## Gruppe 2️⃣: Koshi-waza (Hüfttechniken)
 
@@ -119,7 +122,7 @@ Diese Gruppe demonstriert **Hüftwürfe**, bei denen Tori Uke **nahe an sich her
 
 
 
-### 🥋 Technik 4: Uki-goshi (浮腰 – „Hüftschwung“)
+### 🥋 1. Uki-goshi (浮腰 – „Hüftschwung“)
 
 **🎯 Wirkprinzip:**  
 Tori nutzt das seitliche Eindrehen und die Hüfte als seitlichen Hebel, um Uke mit minimalem Körpereinsatz über eine Rotationsachse zu werfen – ein Musterbeispiel für effizientes „Ju“.
@@ -142,8 +145,7 @@ Tori nutzt das seitliche Eindrehen und die Hüfte als seitlichen Hebel, um Uke m
 - Seitenwechsel gleichwertig und technisch identisch
 
 
-
-### 🥋 Technik 5: Harai-goshi (払腰 – „Hüftfeger“)
+### 🥋 2. Harai-goshi (払腰 – „Hüftfeger“)
 
 **🎯 Wirkprinzip:**  
 Tori verbindet Hüftrotation mit einem kraftvollen Feger, wobei Uke durch Zug, Drehung und Beinbewegung über das Zentrum von Tori gelenkt wird.
@@ -166,8 +168,7 @@ Tori verbindet Hüftrotation mit einem kraftvollen Feger, wobei Uke durch Zug, D
 - Technik beidseitig korrekt, keine Asymmetrie
 
 
-
-### 🥋 Technik 6: Tsurikomi-goshi (釣込腰 – „Hüftwurf mit Zug und Heben“)
+### 🥋 3. Tsurikomi-goshi (釣込腰 – „Hüftwurf mit Zug und Heben“)
 
 **🎯 Wirkprinzip:**  
 Der Wurf kombiniert das aktive Heben („Tsuri“) mit dem tiefen Eintritt und Platzieren von Uke auf Toris Hüfte („Komi“). Die Bewegung ist rund, kontrolliert und kraftsparend durch Ausnutzung des Zentrums.
@@ -187,6 +188,9 @@ Der Wurf kombiniert das aktive Heben („Tsuri“) mit dem tiefen Eintritt und P
 - Uke wird in gleichmäßigem Bogen über die Hüfte geführt  
 - Seitenwechsel technisch identisch und flüssig
 
+
+<div style="break-after:page"></div>
+
 ## Gruppe 3️⃣: Ashi-waza (Fußtechniken)
 
 Diese Gruppe zeigt **Fuß- und Beintechniken**, bei denen Tori Ukes Bewegung durch **Blockieren, Fegen oder Heben mit dem Bein** aus dem Gleichgewicht bringt. Entscheidend ist das präzise **Timing**, da viele Techniken im Moment des **Umschreitens oder Abstützens von Uke** ansetzen.
@@ -198,9 +202,7 @@ Diese Gruppe zeigt **Fuß- und Beintechniken**, bei denen Tori Ukes Bewegung dur
 - **Koordination von Händen und Beinen**
 - **Dynamik, Rhythmus und Verbindung** zwischen Uke und Tori besonders relevant
 
-
-
-### 🥋 Technik 7: Okuri-ashi-barai (送足払 – „gleitender Fußfeger“)
+### 🥋 Technik 1. Okuri-ashi-barai (送足払 – „gleitender Fußfeger“)
 
 **🎯 Wirkprinzip:**  
 Tori nutzt Ukes Eigenbewegung im Schritt aus. Durch präzisen, leichten Impuls mit dem Fuß werden beide Füße gestört – Tori stört den Rhythmus und bringt Uke zum Fallen.
@@ -222,9 +224,7 @@ Tori nutzt Ukes Eigenbewegung im Schritt aus. Durch präzisen, leichten Impuls m
 - Uke fällt **aktiv**, mit Körperspannung und klarer Richtung  
 - Beide Seiten **gleichwertig ausgeführt**
 
-
-
-### 🥋 Technik 8: Sasae-tsurikomi-ashi (支釣込足 – „Blockierender Hebe-Fußwurf“)
+### 🥋 2. Sasae-tsurikomi-ashi (支釣込足 – „Blockierender Hebe-Fußwurf“)
 
 **🎯 Wirkprinzip:**  
 Tori unterbricht aktiv Ukes Schrittbewegung durch Blockieren mit dem Fuß. Der gezielte Hebezug mit Armen kippt Uke über das eigene blockierte Bein.
@@ -245,8 +245,7 @@ Tori unterbricht aktiv Ukes Schrittbewegung durch Blockieren mit dem Fuß. Der g
 - Seitenwechsel ohne Qualitätsverlust
 
 
-
-### 🥋 Technik 9: Uchi-mata (内股 – „Innerer Schenkelwurf“)
+### 🥋 3. Uchi-mata (内股 – „Innerer Schenkelwurf“)
 
 **🎯 Wirkprinzip:**  
 Tori erzeugt Hebelwirkung durch Einhaken und Anheben von Ukes Bein mit dem gestreckten Oberschenkel. Der Wurf entsteht durch eine Kombination aus **Drehung**, **Hebung** und **Armzug**.
@@ -268,6 +267,8 @@ Tori erzeugt Hebelwirkung durch Einhaken und Anheben von Ukes Bein mit dem gestr
 - Uke wird **in einem bogenförmigen Fall** geworfen, nicht abrupt  
 - Beide Seiten gleichwertig und kraftfrei ausgeführt
 
+<div style="break-after:page"></div>
+
 ## Gruppe 4️⃣: Ma-sutemi-waza (Rückwärts-Opfertechniken)
 
 Diese Gruppe demonstriert Techniken, bei denen **Tori das eigene Gleichgewicht bewusst nach hinten opfert**, um Uke durch einen Zug, Hebel oder Kreisschwung zu werfen.  
@@ -279,9 +280,7 @@ Toris **Rücken landet auf der Matte**, der Wurf entsteht durch **Geschwindigkei
 - Techniken folgen oft einem **kreis- oder bogenförmigen Bewegungsmuster**
 - Timing & Koordination zwischen Fall und Führung entscheiden über Erfolg
 
-
-
-### 🥋 Technik 10: Tomoe-nage (巴投 – „Kreiswurf“)
+### 🥋 1. Tomoe-nage (巴投 – „Kreiswurf“)
 
 **🎯 Wirkprinzip:**  
 Tori nutzt die Rücklage und den Druck des Fußes auf Ukes Bauch, kombiniert mit einem aktiven Zug, um Uke in einer Kreisbahn über sich hinweg zu führen.
@@ -303,8 +302,7 @@ Tori nutzt die Rücklage und den Druck des Fußes auf Ukes Bauch, kombiniert mit
 - Seitenwechsel gleichwertig
 
 
-
-### 🥋 Technik 11: Ura-nage (裏投 – „Rückwurf“)
+### 🥋 2. Ura-nage (裏投 – „Rückwurf“)
 
 **🎯 Wirkprinzip:**  
 Tori absorbiert Ukes Angriff durch Rücklage und führt Uke durch einen Impuls aus Rumpf und Hüfte über das eigene Zentrum rückwärts zu Boden.
@@ -325,9 +323,7 @@ Tori absorbiert Ukes Angriff durch Rücklage und führt Uke durch einen Impuls a
 - Uke bleibt gestreckt, Kopf nicht hängen lassen  
 - Symmetrisch ausgeführt
 
-
-
-### 🥋 Technik 12: Sumi-gaeshi (隅返 – „Eckendrehwurf“)
+### 🥋 3. Sumi-gaeshi (隅返 – „Eckendrehwurf“)
 
 **🎯 Wirkprinzip:**  
 Ein Spiralwurf über die Ecke, bei dem Tori Ukes Gleichgewicht diagonal bricht und durch kontrolliertes Absenken + Beinführung den Wurf in Bogenform durchführt.
@@ -347,6 +343,8 @@ Ein Spiralwurf über die Ecke, bei dem Tori Ukes Gleichgewicht diagonal bricht u
 - Uke folgt der Bewegung mit Körperspannung  
 - Beide Seiten gleichwertig und kontrolliert
 
+<div style="break-after:page"></div>
+
 ## Gruppe 5️⃣: Yoko-sutemi-waza (Seitliche Opfertechniken)
 
 In dieser letzten Gruppe demonstriert Tori Würfe, bei denen das eigene Gleichgewicht **seitlich geopfert** wird.  
@@ -360,8 +358,7 @@ Tori bringt Uke durch eine Kombination aus **Kippmoment, Rotation und Körperabs
 - **Kontrollierte Seitenlage und Wurfbogen** entscheidend
 
 
-
-### 🥋 Technik 13: Yoko-gake (横掛 – „Seitliches Einhängen“)
+### 🥋 1. Yoko-gake (横掛 – „Seitliches Einhängen“)
 
 **🎯 Wirkprinzip:**  
 Ein seitlicher Opferwurf durch Blockieren von Ukes Bein kombiniert mit einem diagonalen Zug. Tori kippt nach rechts, während Uke durch die entstehende Lücke nach vorn-fallend kippt.
@@ -384,7 +381,7 @@ Ein seitlicher Opferwurf durch Blockieren von Ukes Bein kombiniert mit einem dia
 
 
 
-### 🥋 Technik 14: Yoko-guruma (横車 – „Seitenrad“)
+### 🥋 2. Yoko-guruma (横車 – „Seitenrad“)
 
 **🎯 Wirkprinzip:**  
 Ein **radartiger Wurf**, bei dem Tori Uke über ein seitlich gelegtes Bein nach außen dreht – Rotation entsteht um eine seitliche Achse, die durch Toris Körper gebildet wird.
@@ -407,7 +404,7 @@ Ein **radartiger Wurf**, bei dem Tori Uke über ein seitlich gelegtes Bein nach 
 
 
 
-### 🥋 Technik 15: Uki-waza (浮技 – „Schwebewurf“)
+### 🥋 3. Uki-waza (浮技 – „Schwebewurf“)
 
 **🎯 Wirkprinzip:**  
 Ein Wurf aus dem Gleichgewicht durch **scheinbare Schwebe- und Kippbewegung** – Uke verliert durch die Kombination aus Zug und seitlicher Absenkung den Halt.
@@ -427,9 +424,8 @@ Ein Wurf aus dem Gleichgewicht durch **scheinbare Schwebe- und Kippbewegung** �
 - Körperspannung erhalten  
 - Beide Seiten gleichwertig
 
----
 
-## 📚 Quellenhinweis
+## 📚 Quellen
 
 Diese Ausarbeitung basiert auf den offiziellen Vorgaben und Referenzmaterialien zu den Kodokan-Kata, insbesondere:
 
@@ -444,4 +440,4 @@ Diese Ausarbeitung basiert auf den offiziellen Vorgaben und Referenzmaterialien 
 
 Diese Dokumentation dient der methodischen und technischen Vorbereitung auf Dan-Prüfungen und Kata-Wettbewerbe gemäß den offiziellen Richtlinien. Sie ersetzt nicht die praktische Anleitung durch autorisierte Lehrpersonen.
 
----
+Florian Mücke, Juli 2025
